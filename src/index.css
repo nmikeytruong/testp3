@@ -1,0 +1,41 @@
+body {
+  background-image: url("../src/images/Socialimg.jpg");
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.hero-image {
+  text-align: center;
+}
+.animated {
+  color: white;
+  font-size: 170px;
+  font-family: 'Bangers', cursive;
+}
+form {
+  width: 75%;
+  border-radius: 2.5px;
+  margin: 10px 15px 10px 15px;
+}
+.login {
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  font-family: 'Bangers', cursive;
+}
+label {
+  color: white;
+  font-family: 'Bangers', cursive;
+  font-size: 18px;
+}
+.btn {
+  background-color:rgb(20, 161, 172);
+  border-color: rgb(20, 161, 172);
+  margin-left: 100px;
+  width: 40%;
+  font-family: 'Bangers', cursive;
+}
